@@ -1,0 +1,201 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 46}, {116, 268}}",
+        "class" : "Label",
+        "attributes" : {
+          "flex" : "WH",
+          "alpha" : 0.69999999999999996,
+          "name" : "output",
+          "frame" : "{{25, 144}, {150, 32}}",
+          "uuid" : "05DE5C08-E9F1-44D1-837D-96B66A1F1EF8",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "999",
+          "font_size" : 60,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{96, 37}, {32, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "alpha" : 0.29999999999999993,
+          "flex" : "LB",
+          "image_name" : "iob:close_24",
+          "frame" : "{{24, 144}, {80, 32}}",
+          "tint_color" : "RGBA(0.029874,0.029874,0.029874,1.000000)",
+          "title" : "",
+          "uuid" : "029F748C-AB1A-4101-9980-CC436C8E998B",
+          "class" : "Button",
+          "name" : "del",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{0, 37}, {32, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "alpha" : 0.29999999999999993,
+          "flex" : "RB",
+          "font_size" : 15,
+          "frame" : "{{24, 144}, {80, 32}}",
+          "tint_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+          "title" : "",
+          "uuid" : "E9BA6A4F-5190-4C72-9627-D293A84A5A02",
+          "class" : "Button",
+          "name" : "opt",
+          "image_name" : "iob:eye_24"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 6}, {116, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "alpha" : 0.69999999999999996,
+          "flex" : "WB",
+          "frame" : "{{24, 144}, {80, 32}}",
+          "tint_color" : "RGBA(0.244009,0.244009,0.244009,1.000000)",
+          "title" : "New Counter",
+          "uuid" : "BEA25B0D-09C1-4348-9338-D3C9E8BC6225",
+          "class" : "Button",
+          "font_bold" : true,
+          "name" : "title_btn",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{39, 260}, {54, 54}}",
+        "class" : "Button",
+        "attributes" : {
+          "flex" : "LRT",
+          "alpha" : 0.19999999999999996,
+          "image_name" : "iob:arrow_return_left_32",
+          "frame" : "{{24, 144}, {80, 32}}",
+          "tint_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+          "title" : "",
+          "uuid" : "2FA63DB7-1BE6-4B74-B4EE-D881AB5B82B4",
+          "class" : "Button",
+          "font_size" : 15,
+          "name" : "reset_btn"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{40, 65}, {48, 48}}",
+        "class" : "Button",
+        "attributes" : {
+          "alpha" : 0.69999999999999996,
+          "flex" : "LRB",
+          "name" : "handle",
+          "frame" : "{{24, 144}, {80, 32}}",
+          "tint_color" : "RGBA(0.010893,0.010893,0.010893,1.000000)",
+          "title" : "",
+          "uuid" : "0F7A64F5-8E0B-44C7-9BBF-146F27611ABB",
+          "class" : "Button",
+          "font_size" : 15,
+          "image_name" : "iob:arrow_move_24"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 102}, {54, 54}}",
+        "class" : "View",
+        "attributes" : {
+          "flex" : "WHRTB",
+          "frame" : "{{14, 110}, {100, 100}}",
+          "background_color" : "RGBA(0.727273,1.000000,0.909091,1.000000)",
+          "class" : "View",
+          "name" : "add10",
+          "uuid" : "443B4937-9442-40FC-AF2C-08A9680EF07C"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{68, 102}, {54, 54}}",
+        "class" : "View",
+        "attributes" : {
+          "flex" : "WHLTB",
+          "frame" : "{{14, 110}, {100, 100}}",
+          "background_color" : "RGBA(0.909091,1.000000,0.727273,1.000000)",
+          "class" : "View",
+          "name" : "add",
+          "uuid" : "364D1F0D-602A-4753-9BD3-0CC038230CDF"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 203}, {54, 54}}",
+        "class" : "View",
+        "attributes" : {
+          "flex" : "WHRTB",
+          "frame" : "{{14, 110}, {100, 100}}",
+          "background_color" : "RGBA(1.000000,0.727273,0.909091,1.000000)",
+          "class" : "View",
+          "name" : "sub10",
+          "uuid" : "57DC57D6-6AA0-461A-A89C-9E2792E63261"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{68, 203}, {54, 54}}",
+        "class" : "View",
+        "attributes" : {
+          "flex" : "WHLTB",
+          "frame" : "{{14, 110}, {100, 100}}",
+          "background_color" : "RGBA(1.000000,0.878788,0.818182,1.000000)",
+          "class" : "View",
+          "name" : "sub",
+          "uuid" : "ECC6C60F-1624-43C8-B60A-C32B576FF241"
+        },
+        "selected" : false
+      }
+    ],
+    "frame" : "{{0, 0}, {128, 320}}",
+    "class" : "View",
+    "attributes" : {
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "enabled" : true,
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "custom_class" : "SingleCounter",
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]

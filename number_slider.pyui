@@ -1,0 +1,54 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{0, 0}, {170, 34}}",
+        "class" : "Slider",
+        "attributes" : {
+          "flex" : "WTB",
+          "continuous" : true,
+          "frame" : "{{29, 23}, {200, 34}}",
+          "uuid" : "90B139A5-8C8A-46AF-AECF-A60A4C183B49",
+          "class" : "Slider",
+          "value" : 0.5,
+          "name" : "slider"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{178, 0}, {80, 34}}",
+        "class" : "TextField",
+        "attributes" : {
+          "flex" : "LTB",
+          "name" : "num",
+          "frame" : "{{29, 24}, {200, 32}}",
+          "spellchecking_type" : "default",
+          "class" : "TextField",
+          "uuid" : "BFD97DE5-C892-4057-B7E9-E22C934DC0E5",
+          "alignment" : "left",
+          "autocorrection_type" : "default",
+          "font_size" : 17,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      }
+    ],
+    "frame" : "{{0, 0}, {258, 34}}",
+    "class" : "View",
+    "attributes" : {
+      "custom_class" : "NumberSlider",
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{0, 0}, {240, 240}}",
+        "class" : "ScrollView",
+        "attributes" : {
+          "flex" : "WH",
+          "border_width" : 1,
+          "frame" : "{{-40, -40}, {320, 320}}",
+          "uuid" : "6AE599F1-4769-4E25-9434-4BFC779CC8C3",
+          "content_height" : 320,
+          "class" : "ScrollView",
+          "content_width" : 320,
+          "corner_radius" : 3,
+          "name" : "sv"
+        },
+        "selected" : false
+      }
+    ],
+    "frame" : "{{0, 0}, {240, 240}}",
+    "class" : "View",
+    "attributes" : {
+      "custom_class" : "ColorPallet",
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
