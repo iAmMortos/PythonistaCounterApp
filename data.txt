@@ -1,9 +1,0 @@
-Christian|14|#009AC8
-Erin|10|#006A5E
-Alyssa|10|#E73D96
-Dad|5|#65B560
-Mom|5|#D13C5A
-Taylor|4|#64C800
-Abby|3|#7F3E98
-Jackey|1|#FED24D
-Micah|-1|#A2681B
